@@ -1,4 +1,4 @@
-# Emotion-Based Music Generation
+# Musical Note Identifier And Emotion Based Music Generation
 
 This project leverages deep learning to generate musical pieces that evoke specific emotions. By analyzing an input audio file (from a local MP3 or a YouTube link), the system identifies its musical properties and then composes new music in a "happy" or "sad" style. The core of the project is a pair of Recurrent Neural Networks (LSTMs) trained on the EMOPIA dataset, each specialized in generating music with a distinct emotional valence.
 
